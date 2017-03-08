@@ -16,4 +16,9 @@
 1. Stage Changed
 1. Sign Off (ggf. Notiz für später und Änderungen beschreiben)
 1. Commit
-1. Push (Link von neuen repository verwenden
+1. Push (Link von neuen repository verwenden)
+
+
+* Voreinstellung: Gig Gui-> Option -> utf-8 einstellen, Email und Name angeben
+
+! [Einstellung](Unbennant.jpg)
