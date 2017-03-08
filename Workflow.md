@@ -21,4 +21,4 @@
 
 * Voreinstellung: Gig Gui-> Option -> utf-8 einstellen, Email und Name angeben
 
-![Einstellung](Unbennant.jpg)
+![Einstellung](Unbenannt.jpg)
