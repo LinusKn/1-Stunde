@@ -22,3 +22,7 @@
 * Voreinstellung: Gig Gui-> Option -> utf-8 einstellen, Email und Name angeben
 
 ![Einstellung](Unbenannt.JPG)
+
+
+* Um eine Datei aus Stage Changed zu entfernen (Commit -> Unstage From Commit)
+* Um mit repository zu verbinden (in Git Gui. Remote-> bennen -> Link von Github.com in Location einfügen -> Add)
