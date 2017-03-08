@@ -26,3 +26,4 @@
 
 * Um eine Datei aus Stage Changed zu entfernen (Commit -> Unstage From Commit)
 * Um mit repository zu verbinden (in Git Gui. Remote-> bennen -> Link von Github.com in Location einfügen -> Add)
+* Befehle finden: markdown cheat sheet in google
